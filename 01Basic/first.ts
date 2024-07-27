@@ -1,2 +1,2 @@
-var a: number = 10;
+var a: String = "Hello World";
 console.log(a);
